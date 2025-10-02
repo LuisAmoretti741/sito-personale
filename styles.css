@@ -1,8 +1,20 @@
+html{
+    color: white;
+    background-color: black;
+}
+.barre-navigazione{
+    border: solid 1px;
+    justify-items: center;
+    padding: 10px;
+    margin: 10px;
+    text-decoration: none;
+
+}
+a{
+    width: 50px; margin: 60px;
+}
+
 h1 {
     text-align: center;
     
-}
-
-table{
-    background-color: blue;
 }
